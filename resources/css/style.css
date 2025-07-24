@@ -1,0 +1,34 @@
+body {
+	background-color: black;
+}
+
+p, h1, h2, a{
+	font-family: "Verdana";
+	text-align: center;
+	color: white;
+}
+
+a {
+	display: block;
+	color: #7fffda;
+	font-size: 16px;
+}
+
+body nav h1{
+	font-size: 50px;
+	}
+
+h2{
+	font-size:42px;
+	font-weight: 300;
+}
+
+p {
+	font-size:21px;
+	color:gray;
+}
+
+footer p {
+	text-align:right !important;
+	colo:gray;
+}
